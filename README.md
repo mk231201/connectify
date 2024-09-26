@@ -11,4 +11,4 @@
 8. Designed responsive UI components with Shadcn for optimal device user experience.
 9. Leveraged Next.js for server-side rendering and improved performance.
 
-## App Link - [https://sanket-mane-video-conferencing-app.vercel.app/]
+## App Link - [https://connectify-two-rho.vercel.app]
